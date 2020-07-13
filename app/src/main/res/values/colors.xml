@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#8BC34A</color>
+    <color name="colorPrimaryDark">#689F38</color>
+
+    <color name="ronockOrange">#F37025</color>
+    <color name="ronockGray">#A2A2A2</color>
+    <color name="buttonsColor">#03A9F4</color>
+    <color name="swipeBackgroundColor">#6236FF</color>
+    <color name="swipeDeleteBackgroundColor">#E02020</color>
+    <color name="ronoToastBackground">#E6481267</color>
+    <color name="ronockWhite">#FDFDFD</color>
+    <color name="notificationIsNotRead">#FDF8F7F7</color>
+    <color name="textColor">#464646</color>
+    <color name="ronockBurble">#481267</color>
+    <color name="ronockBlue">#0091FF</color>
+</resources>
