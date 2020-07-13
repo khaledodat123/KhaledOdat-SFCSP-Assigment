@@ -8,8 +8,6 @@
   - Retrofit2<br/>
   - Reposatory pattern to seperate API, LocalDatabase and Files data sources<br/>
   - Room DB<br/>
-  - JUnit<br/>
-  - Esspresso Ui test<br/>
 
 ## How to run code :
   - Clone the reposatory from below command :<br/>
@@ -19,14 +17,6 @@
   - From "Run" menu, chose "Run 'app'" option and wait the emulator to start and launch the application (If you havnt creat emulator yet, you have to create one from AVD Manager)<br/><br/>
   
 
-## How to run JUnit test cases : This app uses JUnit4 to do some simple unit testing in LandPageFragment when user trying to search of atricle with begins with digit<br/>
-
-  - Go to folder "com.khaledodat.assessment.view.fragment(androidTest)"<br/>
-  - Right click on LandPageFragmentTest file and click run<br/>
-  - Now "Run" dialog will show from below and will tell you assertion error message "Please dont search for article starts with digit"<br/>
-  - If you want test a case that will pass test case, you should change keyWord variable to anything that not started with a digit<br/><br/>
-  
-  
 ## Screenshots<br/>
 
 <p align="center">
