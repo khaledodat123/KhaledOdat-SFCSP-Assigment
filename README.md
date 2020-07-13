@@ -13,7 +13,7 @@
 
 ## How to run code :
   - Clone the reposatory from below command :<br/>
-	- git clone https://github.com/khaledodat123/KhaledOdatAssement.git<br/>
+	- git clone https://github.com/khaledodat123/KhaledOdat-SFCSP-Assigment.git<br/>
   - Open Android Studio and then click on "Open an existing Android Studio Project in right pane"<br/>
   - When chose project dialog shown, go to "KhaledOdatAssement" folder which you cloned before<br/>
   - From "Run" menu, chose "Run 'app'" option and wait the emulator to start and launch the application (If you havnt creat emulator yet, you have to create one from AVD Manager)<br/><br/>
