@@ -30,7 +30,7 @@
 ## Screenshots<br/>
 
 <p align="center">
-<img src="https://github.com/khaledodat123/KhaledOdatAssement/blob/master/Screenshots/s1.png" width="200">
-<img src="https://github.com/khaledodat123/KhaledOdatAssement/blob/master/Screenshots/s2.png" width="200">
-<img src="https://github.com/khaledodat123/KhaledOdatAssement/blob/master/Screenshots/s3.png" width="200">
+<img src="https://github.com/khaledodat123/KhaledOdat-SFCSP-Assigment/blob/master/Screenshots/s1.png" width="200">
+<img src="https://github.com/khaledodat123/KhaledOdat-SFCSP-Assigment/blob/master/Screenshots/s2.png" width="200">
+<img src="https://github.com/khaledodat123/KhaledOdat-SFCSP-Assigment/blob/master/Screenshots/s3.png" width="200">
 </p>
